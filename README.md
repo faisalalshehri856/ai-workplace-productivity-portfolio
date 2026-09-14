@@ -5,7 +5,7 @@
 - Trainee Name: فيصل عمر الشهري
 - Training Program: L0-FGP (Generative AI for Workplace Productivity)
 - Instructor: Fahad Alqahtani
-- Date: 14 September 2026
+- Date: 15 September 2026
 - @SDAIA Academy
 
 ## Project Overview
