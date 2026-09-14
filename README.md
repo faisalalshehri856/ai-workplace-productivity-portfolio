@@ -6,6 +6,7 @@
 - Training Program: L0-FGP (Generative AI for Workplace Productivity)
 - Instructor: Fahad Alqahtani
 - Date: 14 September 2026
+- @SDAIA Academy
 
 ## Project Overview
 This repository serves as a professional portfolio demonstrating the practical application of generative AI tools. As a Customer Experience Analyst, I utilized AI to analyze unstructured customer feedback, draft empathetic responses, and structure reporting workflows while maintaining strict verification standards.
