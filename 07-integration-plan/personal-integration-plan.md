@@ -10,7 +10,7 @@
 2. **Recurring Task 2:** Drafting Apology and Update Emails.
    - **Expected Benefit:** Consistent, empathetic, and professional communication.
    - **Preferred Workflow:** Writing Workflow 4-step process.
-   - **Risk/Verification:** Fact-check refund timelines before sending.
+   - **Risk/Verification:** Fact-check refund timelines  before sending.
    - **Usage Frequency:** Daily.
    - **What Success Looks Like:** Faster response turnaround time and improved CSAT scores.
 
