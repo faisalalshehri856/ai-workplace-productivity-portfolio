@@ -14,7 +14,7 @@
 - Structured the email to clearly state the action taken and the expected timeline.
 
 ## 4. Human Sign-off
-- Reviewed, refined, and approved by: فيصل عمر الشهري (Customer Experience Analyst).
+- Reviewed, refined, and approved by: Faisal Omar Alshehri (Customer Experience Analyst).
 
 ## 5. Final Version
 Dear Customer,
@@ -27,5 +27,5 @@ We deeply value your business and your patience. If you have any further questio
 
 Best regards,
 
-فيصل عمر الشهري
+Faisal Omar Alshehri
 Customer Experience Analyst
