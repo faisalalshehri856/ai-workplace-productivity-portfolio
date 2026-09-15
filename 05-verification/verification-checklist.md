@@ -4,7 +4,7 @@
 1. Identify the core data points (dates, names, metrics).
 2. Set accurate verification criteria against source documents or CRM.
 3. Test AI output against trusted organizational records.
-4. Confirm constraints and flag missing information as [Not Specified].
+4. Confirm constraints and flag  missing information as [Not Specified].
 5. Document final decision and human approval.
 
 ## Applied Example
