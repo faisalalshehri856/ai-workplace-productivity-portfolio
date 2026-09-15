@@ -5,7 +5,7 @@
 - **Phases:**
   - Phase 1: Ticket Analysis & Categorization
   - Phase 2: Process Improvement & Documentation
-  - Phase 3: Team Training & Execution
+  - Phase 3: Team Training & Execution.
   
 - **Tasks:**
   - **Phase 1 Tasks:** 
