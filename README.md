@@ -12,7 +12,7 @@
 This repository serves as a professional portfolio demonstrating the practical application of generative AI tools. As a Customer Experience Analyst, I utilized AI to analyze unstructured customer feedback, draft empathetic responses, and structure reporting workflows while maintaining strict verification standards.
 
 ## Selected Workplace Scenario
-Customer Experience Analyst responsible for reviewing raw customer feedback, identifying service gaps, drafting client communications, and providing structured reports to management.
+Customer Experience Analyst responsible for reviewing raw customer feedback, identifying service gaps, drafting client communications, and providing structured reports  to management.
 
 ## Course Skills Demonstrated
 - Advanced Prompt Structuring (C.A.R.E. & R.C.T.O. frameworks)
