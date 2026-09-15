@@ -1,7 +1,7 @@
 # Information Processing Workflow Example
 
 ## Raw Input (Unstructured Customer Feedback)
-- "The app keeps freezing every time I try to check out. I tried 3 times and my card was charged twice but no confirmation! I need a refund."
+- "The app keeps freezing every time I try to check out. I tried 3 times and my card was charged twice but no confirmation! I need  a refund."
 - "Customer service was great and Sarah was very helpful, but the delivery was delayed by two days from the promised date."
 
 ## Chosen Task & Why
